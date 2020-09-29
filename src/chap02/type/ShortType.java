@@ -1,6 +1,6 @@
 package chap02.type;
 
-public class shortType {
+public class ShortType {
 	public static void main(String[] args) {
 		// short :2byte
 		short shortValue1;
