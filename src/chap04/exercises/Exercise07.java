@@ -13,14 +13,14 @@ public class Exercise07 {
 			System.out.println("---------------------------------");
 			System.out.println("1.예금 | 2.출금 | 3.잔고 | 4.종료");
 			System.out.println("---------------------------------");
-			System.out.println("선택>");
-		
-		break;
+			System.out.print("선택>");
 		
 		
 		
 		
 		
+		
+			break;
 		
 		
 		}
