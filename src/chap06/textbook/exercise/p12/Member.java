@@ -1,4 +1,4 @@
-package chap06.textbook.exercises.p12;
+package chap06.textbook.exercise.p12;
 
 public class Member {
 	private String name;

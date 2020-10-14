@@ -1,4 +1,4 @@
-package chap06.textbook.p15;
+package chap06.textbook.exercise.p15;
 
 public class MemberServiceExample {
 	public static void main(String[] args) {
