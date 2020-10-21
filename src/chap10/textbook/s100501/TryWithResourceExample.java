@@ -11,5 +11,5 @@ public class TryWithResourceExample {
 			System.out.println("예외 처리 코드가 실행되었습니다.");
 		}
 	}
-	str.indexof(e);
+	
 }
