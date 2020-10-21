@@ -15,6 +15,9 @@ public class ValueCompareExample {
 		System.out.println("==결과: " +(obj3 == obj4));
 		System.out.println("언방싱후 ==결과: " +(obj3.intValue() == obj4.intValue()));
 		System.out.println("equals() 결과: " + obj3.equals(obj4));
-		
+		for (int i = 0; i < args.length; i++) {
+			
+		}
 	}
+
 }
